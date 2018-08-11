@@ -9,10 +9,10 @@ musical_groups = [
     ["Axl Rose", "Slash", "Duff McKagan", "Steven Adler"],
     ["Run", "DMC", "Jam Master Jay"],
 ]
-# Your code here
+
 
 all_members = ''
 for group in musical_groups:
-  if len(group) == 3:
-    print(','.join(group))
-  
+    if len(group) == 3:
+        print(", ".join(group))
+
