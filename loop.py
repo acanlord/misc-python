@@ -1,3 +1,6 @@
+#! /usr/local/bin/python3
+
+
 books = [
     "Automate the Boring Stuff with Python: Practical Programming for Total Beginners - Al Sweigart",
     "Python for Data Analysis",
