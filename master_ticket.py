@@ -1,3 +1,5 @@
+#! /usr/local/bin/python3
+
 SERVICE_CHARGE = 2
 TICKET_PRICE = 10
 tickets_remaining = 100  
