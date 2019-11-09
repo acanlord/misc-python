@@ -1,5 +1,7 @@
 #! /usr/bin/python
 
+#https://cmdlinetips.com/2012/09/three-ways-to-write-text-to-a-file-in-python/
+
 
 import os
 
